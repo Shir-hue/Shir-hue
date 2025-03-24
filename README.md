@@ -14,8 +14,8 @@
 
 
 ### 🚀 About Me
-**Currently studying at Lithan Academy, Singapore** | **Lithan Academy Student**  
-Turning coffee ☕ into code since 2024 | Adaptability through hands on experience! 🥋
+**Currently studying at Lithan Academy, Singapore** | **Learner**  
+💻Turning coffee ☕ into code since 2024 | Adaptability through hands on experience! 🥋
 
 - 🌱 Currently mastering:  
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
