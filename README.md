@@ -12,19 +12,6 @@
   <img alt="Hi, I'm Percy 👋 Ardent Software Engineering at Lithan Academy." src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=1F2328&width=435&lines=Hi%2C+I'm+Percival+%F0%9F%91%8B;Ardent+Software+Engineering+at+Lithan+Academy.">
 </picture>  
 
-<pre>
-                                  ___           ___           ___       ___       ___     
-                                 /\__\         /\  \         /\__\     /\__\     /\  \    
-                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
-                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
-                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
-                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
-                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
-                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-                                 \/__/         \/__/         \/__/     \/__/     \/__/    
-</pre>
 
 ### 🚀 About Me
 **Currently studying at Lithan Academy, Singapore** | **Lithan Academy Student**  
@@ -67,11 +54,23 @@ Turning coffee ☕ into code since 2024 | Adaptability through hands on experien
 </div>
 
 ---
-
+<pre>
+                                  ___           ___           ___       ___       ___     
+                                 /\__\         /\  \         /\__\     /\__\     /\  \    
+                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+                                 \/__/         \/__/         \/__/     \/__/     \/__/    
+</pre>
 ### 💌 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/learning/career-journey?u=112371770))  (student account)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail)](percivalignacio26@gmail.com)  (main)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/your-handle](https://www.facebook.com/profile.php?id=100002387192083&mibextid=ZbWKwL)) (main)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/learning/career-journey?u=112371770))  
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail)](percivalignacio26@gmail.com)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/your-handle](https://www.facebook.com/profile.php?id=100002387192083&mibextid=ZbWKwL)) 
 
 
 ---
