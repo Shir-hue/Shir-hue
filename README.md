@@ -86,7 +86,7 @@
 
 ### 🎧 Coding Soundtrack
 ▶️ Current favorite track: [Cigarette after sex]([https://www.youtube.com/watch?v=jfKfPfyJRdk](https://youtu.be/8scL5oJX6CM?si=I8xUjV_Do7eYHlhB))  
-🎶 Makes debugging feel like a chill adventure 🧘♀️
+🎶 Make coding and debugging feel like a chill adventure 🧘♀️
 
 ---
 
