@@ -68,9 +68,17 @@ Turning coffee ☕ into code since 2024 | Adaptability through hands on experien
                                  \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
 ### 💌 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/learning/career-journey?u=112371770))  
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail)](percivalignacio26@gmail.com)  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/your-handle](https://www.facebook.com/profile.php?id=100002387192083&mibextid=ZbWKwL)) 
+<p align="left">
+  <a href="https://www.linkedin.com/learning/career-journey?u=112371770">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:percivalignacio26@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100002387192083&mibextid=ZbWKwL">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
 
 
 ---
