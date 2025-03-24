@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/demo/?font=Arial&color=F0F6FC&lines=Hi%2C+I'm+Percival+%F0%9F%91%8B;Ardent+Software+Engineering+at+Lithan+Academy.">
-  <img alt="Hi, I'm Percy 👋 Ardent Software Engineering at Lithan Academy." src="">
+  <img alt="Hi, I'm Percy 👋 Ardent Software Engineering at Lithan Academy." src="https://readme-typing-svg.herokuapp.com/demo/?font=Arial&color=1F2328&lines=Hi%2C+I%27m+Percival+%F0%9F%91%8B;Ardent+Software+Engineering+at+Lithan+Academy.">
 </picture>  
 
 ### 🚀 About Me
