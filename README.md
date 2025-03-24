@@ -91,6 +91,6 @@ Turning coffee ☕ into code since 2024 | Adaptability through hands on experien
 
 ![giphy](https://github.com/user-attachments/assets/3bbdc3cf-a2ef-43f0-a0a2-fb7bc0aa752b)
 
-> "The beautiful thing about learning is that no one can take it away from you."  
+> "Every master was once a beginner."  
 > — Let's grow together! 🌱
 
