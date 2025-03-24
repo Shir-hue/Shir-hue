@@ -30,10 +30,10 @@ Turning coffee ☕ into code since 2024 | Adaptability through hands on experien
   
 - 🎯 Future Goals:  
   - Build my first React app
+  - Mastering design
   - Make a fully functional fullstack application with users
   - Contribute to open source  
   - Create 10+ mini projects
-  - Consistent, undying resolve for learning
   - Make a game
   - more
 
