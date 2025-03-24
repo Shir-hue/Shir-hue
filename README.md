@@ -29,13 +29,13 @@ Turning coffee ☕ into code since 2024 | Adaptability through hands on experien
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
   
 - 🎯 **Future Goals:**  
-  - 🏗️ Build my first React app  
-  - 🎨 Master design principles  
-  - 🌍 Develop a fully functional full-stack application with user authentication  
-  - 🤝 Contribute to open source  
-  - 🚀 Create 10+ mini projects  
-  - 🎮 Make a game  
-  - 📈 Keep learning and building more!  
+  - Build my first React app
+  - Mastering design
+  - Make a fully functional fullstack application with users
+  - Contribute to open source  
+  - Create 10+ mini projects
+  - Make a game
+  - more
 
 ---
 
