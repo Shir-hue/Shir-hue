@@ -73,7 +73,7 @@
   <a href="https://www.linkedin.com/learning/career-journey?u=112371770">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:percivalignacio26@gmail.com">
+  <a href="mailto:percivalignaciojr@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail" alt="Email">
   </a>
   <a href="https://www.facebook.com/profile.php?id=100002387192083&mibextid=ZbWKwL">
