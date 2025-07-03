@@ -13,11 +13,11 @@
 </picture>  
 
 
-### 🚀 About Me
+### About Me
 **Currently studying at Lithan Academy, Singapore** | **Learner**  
-💻Turning coffee ☕ into code since 2024 | Adaptability through hands on experience! 🥋
+Turning coffee ☕ into code since 2024 | Adaptability through hands on experience! 🥋
 
-- 🌱 Currently mastering:  
+-  Currently mastering:  
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -28,7 +28,7 @@
   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
   
-- 🎯 **Future Goals:**  
+-  **Future Goals:**  
   - Build my first React app
   - Mastering design
   - Make a fully functional fullstack application with users
@@ -39,7 +39,7 @@
 
 ---
 
-### 🔥 Featured Projects
+###  Featured Projects
 | Project | Description | Status |
 |---------|-------------|--------|
 | [Judo Academy Web Page](https://github.com/Shir-hue/Judo-Martial-Arts-Web-Page) | Responsive martial arts website | 🟢 Live |
@@ -86,7 +86,7 @@
 
 ### 🎧 Coding Soundtrack
 ▶️ Current favorite track: [Cigarette after sex]([https://www.youtube.com/watch?v=jfKfPfyJRdk](https://youtu.be/8scL5oJX6CM?si=I8xUjV_Do7eYHlhB))  
-🎶 Make coding and debugging feel like a chill adventure 🧘♀️
+🎶 Make coding and debugging feel like a chill adventure 
 
 ---
 
