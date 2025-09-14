@@ -43,8 +43,7 @@
 | Project | Description | Status |
 |---------|-------------|--------|
 | [Jumpstart-E-Commerce](https://jumpstart-e-commerce.vercel.app/) | End-to-end demo: AI product descriptions, responsive product grids, and touch-optimized shopping flows. | 🟢 Live |
-| Portfolio | Modern developer portfolio | <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/f523c22e-9a19-4a5f-9745-fb8e1fc8171f" />
- WIP |
+| Portfolio | Modern developer portfolio | <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/f523c22e-9a19-4a5f-9745-fb8e1fc8171f" /> |
 | Python Automation Toolkit | Script collection for daily tasks | 💡 Planning |
 
 ---
