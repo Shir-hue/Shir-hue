@@ -42,8 +42,8 @@
 ### 🔥 Featured Projects
 | Project | Description | Status |
 |---------|-------------|--------|
-| [Judo Academy Web Page](https://github.com/Shir-hue/Judo-Martial-Arts-Web-Page) | Responsive martial arts website | 🟢 Live |
-| Python Automation Toolkit | Script collection for daily tasks | 🚧 WIP |
+| [Jumpstart-E-Commerce]([https://jumpstart-e-commerce.vercel.app/)) | End-to-end demo: AI product descriptions, responsive product grids, and touch-optimized shopping flows. | 🟢 Live |
+| Python Automation Toolkit | Script collection for daily tasks | 💡 Planning |
 | Portfolio V1 | Modern developer portfolio | 💡 Planning |
 
 ---
