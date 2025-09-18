@@ -13,9 +13,8 @@
 </picture>  
 
 
-### 🚀 About Me
-**Currently studying at Lithan Academy, Singapore** | **Learner**  
-💻Turning coffee ☕ into code since 2024 | Adaptability through hands on experience! 🥋
+### 🚀 About Me 
+I'm a student and currently mastering my skills. I aspire to be a proffesional Software Engineer
 
 - 🌱 Currently mastering:  
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -28,9 +27,9 @@
   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
   
-- 🎯 **Future Goals:**  
+- **🎯 My Future Goals:**  
   - Build my first React app
-  - Mastering design
+  - Master a design
   - Make a fully functional fullstack application with users
   - Contribute to open source  
   - Create 10+ mini projects
@@ -39,7 +38,7 @@
 
 ---
 
-### 🔥 Featured Projects
+### 🔥 Featured Projects 
 | Project | Description | Status |
 |---------|-------------|--------|
 | [Jumpstart-E-Commerce](https://jumpstart-e-commerce.vercel.app/) | End-to-end demo: AI product descriptions, responsive product grids, and touch-optimized shopping flows. | 🟢 Live |
