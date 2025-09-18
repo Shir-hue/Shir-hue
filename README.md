@@ -8,8 +8,8 @@
     Thanks for @daria-stanilevici, @tayyabadev, and @frvnzz for ideas, kind stranger :))
 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=F0F6FC&width=435&lines=Hi%2C+I'm+Percival+%F0%9F%91%8B;Ardent+Software+Engineering+at+Lithan+Academy.">
-  <img alt="Hi, I'm Percy 👋 Ardent Software Engineer." src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=1F2328&width=435&lines=Hi%2C+I'm+Percival+%F0%9F%91%8B;Ardent+Software+Engineering+at+Lithan+Academy.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=F0F6FC&width=435&lines=Hi%2C+I'm+Percival+%F0%9F%91%8B;Ardent+Software+Engineer">
+  <img alt="Hi, I'm Percival 👋 Ardent Software Engineer." src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=1F2328&width=435&lines=Hi%2C+I'm+Percival+%F0%9F%91%8B;Ardent+Software+Engineer">
 </picture>  
 
 
