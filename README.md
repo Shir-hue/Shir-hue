@@ -70,7 +70,7 @@
 </pre>
 ### 💌 Let's Connect
 <p align="left">
-  <a href="https://www.linkedin.com/learning/career-journey?u=112371770">
+  <a href="www.linkedin.com/in/percival-ignacio-jr-232603381">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:percivalignaciojr@gmail.com">
@@ -84,14 +84,8 @@
 
 ---
 
-### 🎧 Coding Soundtrack
-▶️ Current favorite track: [Cigarette after sex]([https://www.youtube.com/watch?v=jfKfPfyJRdk](https://youtu.be/8scL5oJX6CM?si=I8xUjV_Do7eYHlhB))  
-🎶 Make coding and debugging feel like a chill adventure 
-
----
 
 ![giphy](https://github.com/user-attachments/assets/3bbdc3cf-a2ef-43f0-a0a2-fb7bc0aa752b)
 
 > "Every master was once a beginner."  
-> — Let's grow together! 🌱
 
