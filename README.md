@@ -14,7 +14,7 @@
 
 
 ### 🚀 About Me 
-I'm a student and currently mastering my skills. I aspire to be a proffesional Software Engineer
+I'm a Computer Science student Major in Software Engineering and currently mastering my skills. I aspire to be a proffesional Software Engineer. Slowly having the skills to grasp my dreams and i already built projects through our program such as a full stack application, databases, generative AI, UI/UX Design, Data Analysis, Project Management, IT-Security and many, many more. 
 
 - 🌱 Currently mastering:  
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
