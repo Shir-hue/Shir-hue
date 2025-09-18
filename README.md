@@ -41,8 +41,8 @@ I'm a Computer Science student Major in Software Engineering and currently maste
 ### 🔥 Take a look at my Featured Projects 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [Jumpstart-E-Commerce](https://jumpstart-e-commerce.vercel.app/) | End-to-end demo: AI product descriptions, responsive product grids, and touch-optimized shopping flows. | 🟢 Live |
-| Portfolio | Modern developer portfolio | 🚧 WIP |
+| [Jumpstart-E-Commerce](https://jumpstart-e-commerce.vercel.app/) | End-to-end demo: AI product descriptions, a responsive product grids, and touch-optimized shopping flows. | 🟢 Live |
+| Portfolio | My current developer portfolio | 🚧 WIP |
 | Python Automation Toolkit | Script collection for daily tasks | 💡 Planning |
 
 ---
