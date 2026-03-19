@@ -14,7 +14,7 @@
 
 
 ### 🚀 About Me 
-I'm a Computer Science student Major in Software Engineering and currently mastering my skills. I aspire to be a proffesional Software Engineer. Slowly having the skills to grasp my dreams and i already built projects through our program such as a full stack application, databases, generative AI, UI/UX Design, Data Analysis, Project Management, IT-Security and many, many more. 
+I'm a Computer Science student majoring in Software Engineering, currently strengthening my core development skills. I’m working toward becoming a professional software engineer and have built projects in full-stack development, databases, generative AI, UI/UX design, data analysis, project management, and IT security.
 
 - 🌱 Currently mastering:  
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -41,7 +41,7 @@ I'm a Computer Science student Major in Software Engineering and currently maste
 ### 🔥 Take a look at my Featured Projects 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [Jumpstart-E-Commerce](https://jumpstart-e-commerce.vercel.app/) | End-to-end demo: AI product descriptions, a responsive product grids, and touch-optimized shopping flows. | 🟢 Live |
+| [Jumpstart-E-Commerce](https://jumpstart-e-commerce.vercel.app/) | End-to-end demo: AI product descriptions, a responsive product grid, and touch-optimized shopping flows. | 🟢 Live |
 | [Portfolio](https://percivalignaciojr.vercel.app) | My current developer portfolio | 🟢 Live |
 | Python Automation Toolkit | Script collection for daily tasks | 💡 Planning |
 
