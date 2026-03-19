@@ -69,7 +69,7 @@ I'm a Computer Science student Major in Software Engineering and currently maste
 </pre>
 ### 💌 Let's Connect
 <p align="left">
-  <a href="www.linkedin.com/in/percival-ignacio-jr-232603381">
+  <a href="https://www.linkedin.com/in/percival-ignacio-jr-232603381">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:percivalignaciojr@gmail.com">
